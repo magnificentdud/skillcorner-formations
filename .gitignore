@@ -1,0 +1,8 @@
+# Raw tracking files are 90 MB each; fetch with src/download_data.py
+data/raw/*/*_tracking_extrapolated.jsonl
+data/raw/*/*.part
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/

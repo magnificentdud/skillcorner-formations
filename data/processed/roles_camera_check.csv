@@ -1,0 +1,5 @@
+state,detected,in_own_slot,dist_to_slot_m
+in,False,0.737,5.9747
+in,True,0.6498,6.0752
+out,False,0.7759,4.8585
+out,True,0.6785,4.7762

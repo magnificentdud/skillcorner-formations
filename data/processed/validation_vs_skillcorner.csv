@@ -1,0 +1,9 @@
+team,phase_boundary,feature,n,pearson_r,median_abs_err_m,pct_within_0.5m
+in possession,start,width,8455,0.994,0.01,85.523
+in possession,start,depth_incl_gk,8455,0.994,0.01,83.359
+in possession,end,width,8741,0.989,0.2,81.032
+in possession,end,depth_incl_gk,8741,0.937,0.2,79.476
+out of possession,start,width,8455,0.991,0.01,86.127
+out of possession,start,depth_incl_gk,8455,0.998,0.01,87.014
+out of possession,end,width,8741,0.977,0.16,84.052
+out of possession,end,depth_incl_gk,8741,0.96,0.17,83.045
