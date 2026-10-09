@@ -14,7 +14,6 @@ import sys
 from pathlib import Path
 
 import matplotlib
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -113,6 +112,8 @@ def single(mid, team):
 
 
 if __name__ == "__main__":
+    if __name__ == "__main__":
+    matplotlib.use("Agg")
     if sys.argv[1] == "overview":
         overview()
     else:
